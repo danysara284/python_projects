@@ -1,3 +1,4 @@
+print("hi")
 G++
 modified now
 this is sample2
